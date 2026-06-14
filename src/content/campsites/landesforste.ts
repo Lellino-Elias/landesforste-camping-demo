@@ -43,7 +43,7 @@ const landesforste: CampsiteConfig = {
     },
     {
       title: "Abende am Lagerfeuer",
-      text: "Eine Lagerfeuerstelle mit Grill, der Sternenhimmel über der Planspitze und die Enns gleich nebenan — so klingt ein Campingtag im Gseis aus.",
+      text: "Lagerfeuerstelle, Sternenhimmel über der Planspitze und die Enns gleich nebenan — so klingt ein Campingabend im Gseis.",
       image: { src: `${IMG}/pillar-lagerfeuer.webp`, alt: "Gäste am Lagerfeuer unter dem Sternenhimmel über der Planspitze" },
     },
   ],
@@ -99,7 +99,7 @@ const landesforste: CampsiteConfig = {
       },
       {
         title: "Platz für Wohnmobil & Wohnwagen",
-        text: "Großzügige Plätze unter hohen Bäumen, gut erreichbar mit dem Wohnmobil oder Wohnwagen — Übernachtung im Fahrzeug ab € 13 pro Nacht.",
+        text: "Großzügige Plätze unter Bäumen, gut erreichbar mit Wohnmobil oder Wohnwagen — Übernachtung ab € 13 pro Nacht.",
         image: { src: `${IMG}/feature-wohnmobil.webp`, alt: "Wohnmobil unter Bäumen am Campingplatz Forstgarten" },
       },
       {
@@ -123,7 +123,7 @@ const landesforste: CampsiteConfig = {
       {
         name: "Ferienwohnung",
         kind: "Wohnung im 1. Stock",
-        text: "Gemütliche Ferienwohnung mit Wohnküche und Schlafzimmer: ein Doppelbett, zwei Einzelbetten plus Zusatzbett, für bis zu 5 Personen. Die Sanitäranlagen befinden sich im Nebengebäude.",
+        text: "Gemütliche Ferienwohnung mit Wohnküche, Doppelbett, zwei Einzelbetten und Zusatzbett für bis zu 5 Personen.",
         priceFrom: 80,
         features: ["bis 5 Personen", "Wohnküche", "Doppel- & Einzelbetten", "keine Hunde"],
         image: { src: `${IMG}/fewo-essecke.webp`, alt: "Gemütliche Essecke in der Ferienwohnung am Campingplatz Forstgarten" },
@@ -131,7 +131,7 @@ const landesforste: CampsiteConfig = {
       {
         name: "Matratzenlager",
         kind: "Für Schüler- & Jugendgruppen",
-        text: "In drei Holzhäusern warten zwei Matratzenlager mit je 12 und eines mit 16 Schlafplätzen, ein Begleiterzimmer sowie ein Aufenthaltsraum mit kleiner Küche — ideal für Gruppen bis 40 Personen.",
+        text: "Drei Holzhäuser mit zwei Matratzenlager (je 12 Plätze) und einem mit 16 Plätzen, Begleiterzimmer und Aufenthaltsraum mit Küche.",
         priceFrom: 21,
         features: ["bis 40 Personen", "Aufenthaltsraum mit Küche", "Begleiterzimmer"],
         image: { src: `${IMG}/lager-schlafraum.webp`, alt: "Rustikaler Schlafraum im Matratzenlager des Campingplatz Forstgarten" },
