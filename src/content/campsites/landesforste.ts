@@ -126,7 +126,7 @@ const landesforste: CampsiteConfig = {
         text: "Gemütliche Ferienwohnung mit Wohnküche und Schlafzimmer: ein Doppelbett, zwei Einzelbetten plus Zusatzbett, für bis zu 5 Personen. Die Sanitäranlagen befinden sich im Nebengebäude.",
         priceFrom: 80,
         features: ["bis 5 Personen", "Wohnküche", "Doppel- & Einzelbetten", "keine Hunde"],
-        image: { src: `${IMG}/fewo-essecke.webp`, alt: "Essecke der Ferienwohnung am Campingplatz Forstgarten" },
+        image: { src: `${IMG}/fewo-essecke.webp`, alt: "Gemütliche Essecke in der Ferienwohnung am Campingplatz Forstgarten" },
       },
       {
         name: "Matratzenlager",
@@ -134,7 +134,7 @@ const landesforste: CampsiteConfig = {
         text: "In drei Holzhäusern warten zwei Matratzenlager mit je 12 und eines mit 16 Schlafplätzen, ein Begleiterzimmer sowie ein Aufenthaltsraum mit kleiner Küche — ideal für Gruppen bis 40 Personen.",
         priceFrom: 21,
         features: ["bis 40 Personen", "Aufenthaltsraum mit Küche", "Begleiterzimmer"],
-        image: { src: `${IMG}/lager-schlafraum.webp`, alt: "Schlafraum im Matratzenlager des Campingplatz Forstgarten" },
+        image: { src: `${IMG}/lager-schlafraum.webp`, alt: "Rustikaler Schlafraum im Matratzenlager des Campingplatz Forstgarten" },
       },
     ],
   },
