@@ -83,6 +83,11 @@ const landesforste: CampsiteConfig = {
       "Vom Stellplatz zur Enns, vom Zelt ins Matratzenlager: viel Wiese, kurze Wege und alles, was ein entspannter Campingtag im Gesäuse braucht.",
     features: [
       {
+        title: "Spielplatz & Beachvolleyball",
+        text: "Die große Grünfläche, ein Beachvolleyballplatz und der Kinderspielplatz sorgen dafür, dass auch den Kleinen nicht langweilig wird.",
+        image: { src: `${IMG}/feature-spielplatz.webp`, alt: "Spielplatz und Zelte auf der Grünfläche am Campingplatz Forstgarten vor der Bergkulisse des Gesäuse" },
+      },
+      {
         title: "Geschotterte Stellplätze mit Strom",
         text: "Eigens geschotterte und mit Strom versorgte Stellplätze bieten auch für Wohnwägen und Wohnmobile die optimalen Voraussetzungen.",
         image: { src: `${IMG}/feature-stellplatz-strom.webp`, alt: "Wohnwagen-Stellplatz mit Hinweisschild am Campingplatz Forstgarten" },
@@ -101,11 +106,6 @@ const landesforste: CampsiteConfig = {
         title: "Zeltwiese unter Bäumen",
         text: "Wer lieber im Zelt schläft, findet schattige Wiesenplätze zwischen den Bäumen — vom kleinen Zelt bis zum großen Familienzelt.",
         image: { src: `${IMG}/feature-zeltwiese.webp`, alt: "Zelte zwischen Bäumen auf der Campingwiese am Forstgarten" },
-      },
-      {
-        title: "Spielplatz & Beachvolleyball",
-        text: "Die große Grünfläche, ein Beachvolleyballplatz und der Kinderspielplatz sorgen dafür, dass auch den Kleinen nicht langweilig wird.",
-        image: { src: `${IMG}/feature-spielplatz.webp`, alt: "Spielplatz und Zelte auf der Grünfläche am Campingplatz Forstgarten" },
       },
       {
         title: "Empfang mit Gesäuseblick",
